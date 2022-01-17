@@ -1,0 +1,11 @@
+# ------------------------------------
+
+# Using Netlify as Name Server
+
+#
+
+# CONFIG REF: https://docs.netlify.com/configure-builds/file-based-configuration/#redirects
+
+# ------------------------------------
+
+http://resume.snamiki1212.com/* https://resume.snamiki1212.com/:splat 301!
